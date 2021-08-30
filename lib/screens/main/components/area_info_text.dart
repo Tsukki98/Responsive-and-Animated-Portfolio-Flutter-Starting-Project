@@ -8,7 +8,6 @@ class AreaInfoText extends StatelessWidget {
     this.title,
     this.text,
   }) : super(key: key);
-
   final String? title, text;
 
   @override

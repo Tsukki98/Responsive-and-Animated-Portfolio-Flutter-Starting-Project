@@ -1,7 +1,10 @@
 # Responsive and Animated Portfolio Website & App - Flutter UI
 
+<<<<<<< HEAD
 ## [Live Preview](https://abuanwar072.github.io/profile/#/)
 
+=======
+>>>>>>> ecfad93f6ccf9180b4f62312d9bb6d773936bdb0
 ## [Watch it on YouTube](https://youtu.be/G_ZIJseX6AU)
 
 **Packages we are using:**
